@@ -1,0 +1,1 @@
+include ':BlueToothLeClientDemo', ':BluetoothBaseDemo', ':BluetoothClient', ':BluetoothService'
