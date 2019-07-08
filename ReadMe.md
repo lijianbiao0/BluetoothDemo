@@ -4,13 +4,18 @@
 - 搜索
 - 配对
 - 读取数据
-## BluetoothBaseDemo 传统蓝牙基本操作
+## BaseBleDemo 传统蓝牙基本操作
 实现功能：
 - 搜索
 - 获得状态
-## BluetoothClient 蓝牙客户端通讯
+## BaseBleClient 传统蓝牙客户端通讯
 实现功能：
-- 服务器简单通讯
-## BluetoothService 蓝牙服务通讯
+- 与服务器简单通讯
+## BaseBleServer 传统蓝牙服务器通讯
 实现功能
-- 客户端简单通讯
+- 与客户端简单通讯
+## BaseBleSetPin 实现自动配对
+- 自动配对
+- 实用工具方法
+# 传统蓝牙知识图谱
+![](传统蓝牙操作流程.png)

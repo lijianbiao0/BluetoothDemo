@@ -1,1 +1,1 @@
-include ':BlueToothLeClientDemo', ':BluetoothBaseDemo', ':BluetoothClient', ':BluetoothService'
+include ':BlueToothLeClientDemo', ':BaseBleDemo', ':BaseBleClient', ':BaseBleServer', ':BaseBleSetPin'
